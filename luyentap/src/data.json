@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "productName": "Điện thoại Samsung Galaxy S21",
+    "price": 25000000,
+    "stock": 10,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/329135/s16/iphone-16-xanh-la-650x650.png"
+  },
+  {
+    "id": 2,
+    "productName": "Điện thoại Samsung Galaxy S22",
+    "price": 2000000,
+    "stock": 10,
+    "image": "https://images2.thanhnien.vn/528068263637045248/2024/8/29/xzkhqvxgwr4mp8b6zxm6a7-1200-80-17249029588621543069460.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "Điện thoại Samsung Galaxy S23",
+    "price": 25000000,
+    "stock": 10,
+    "image": "https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-1.png"
+  },
+  {
+    "id": 4,
+    "productName": "Điện thoại Samsung Galaxy S212",
+    "price": 25000000,
+    "stock": 10,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/329135/s16/iphone-16-xanh-la-650x650.png"
+  },
+  {
+    "id": 5,
+    "productName": "Điện thoại Samsung Galaxy S231",
+    "price": 25000000,
+    "quantity": 10,
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MA7F4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1723162550519"
+  }
+]
